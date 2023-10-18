@@ -76,6 +76,7 @@ body {
   color: #5696da;
 }
 
+/* Adjusting the font size for mobile devices */
 
 @media (max-width: 768px) {
   #name {
