@@ -1,6 +1,6 @@
 # Diego Ibarra-Asiain's Personal Website
 
-[Live Website](https://eldiegoibarra.github.io/website/)
+[Live Website](https://eldiegoibarra.github.io/website/){:target="_blank"}
 
 ## Table of Contents
 
